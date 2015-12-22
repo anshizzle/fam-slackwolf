@@ -10,7 +10,7 @@
     "require": {
         "coderstephen/slack-client": "dev-master",
         "vlucas/phpdotenv": "^2.1",
-        "php": "~5.6.0"
+        "php": "^5.6.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

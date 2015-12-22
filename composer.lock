@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a6d078ffaeb893b43ba896ac5e78eb05",
-    "content-hash": "eb461c9466c660ccf0ff9625e9d3cc53",
+    "hash": "363587022d0ad3a16c0a3973c6ad938b",
+    "content-hash": "cb966238c1e5f34a7080f7530c88e87f",
     "packages": [
         {
             "name": "coderstephen/slack-client",
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/coderstephen/slack-client.git",
-                "reference": "8996cf21cc62ef303b3c639639068f60f076d2a4"
+                "reference": "5ba2b6609d6f0597749143ad9b6b9f921fec4f11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/coderstephen/slack-client/zipball/8996cf21cc62ef303b3c639639068f60f076d2a4",
-                "reference": "8996cf21cc62ef303b3c639639068f60f076d2a4",
+                "url": "https://api.github.com/repos/coderstephen/slack-client/zipball/5ba2b6609d6f0597749143ad9b6b9f921fec4f11",
+                "reference": "5ba2b6609d6f0597749143ad9b6b9f921fec4f11",
                 "shasum": ""
             },
             "require": {
@@ -56,7 +56,7 @@
                 "realtime",
                 "slack"
             ],
-            "time": "2015-12-15 22:35:40"
+            "time": "2015-12-21 22:08:52"
         },
         {
             "name": "container-interop/container-interop",
@@ -1265,6 +1265,8 @@
     },
     "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "^5.6.0"
+    },
     "platform-dev": []
 }
